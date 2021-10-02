@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/rewdigital/static/css/main.549d380a.chunk.css",
-    "main.js": "/rewdigital/static/js/main.d6139648.chunk.js",
-    "main.js.map": "/rewdigital/static/js/main.d6139648.chunk.js.map",
+    "main.js": "/rewdigital/static/js/main.c8f6173a.chunk.js",
+    "main.js.map": "/rewdigital/static/js/main.c8f6173a.chunk.js.map",
     "runtime-main.js": "/rewdigital/static/js/runtime-main.78b9160c.js",
     "runtime-main.js.map": "/rewdigital/static/js/runtime-main.78b9160c.js.map",
     "static/css/2.28bb0c3d.chunk.css": "/rewdigital/static/css/2.28bb0c3d.chunk.css",
-    "static/js/2.15d24d55.chunk.js": "/rewdigital/static/js/2.15d24d55.chunk.js",
-    "static/js/2.15d24d55.chunk.js.map": "/rewdigital/static/js/2.15d24d55.chunk.js.map",
+    "static/js/2.8b669f59.chunk.js": "/rewdigital/static/js/2.8b669f59.chunk.js",
+    "static/js/2.8b669f59.chunk.js.map": "/rewdigital/static/js/2.8b669f59.chunk.js.map",
     "index.html": "/rewdigital/index.html",
     "static/css/2.28bb0c3d.chunk.css.map": "/rewdigital/static/css/2.28bb0c3d.chunk.css.map",
     "static/css/main.549d380a.chunk.css.map": "/rewdigital/static/css/main.549d380a.chunk.css.map",
-    "static/js/2.15d24d55.chunk.js.LICENSE.txt": "/rewdigital/static/js/2.15d24d55.chunk.js.LICENSE.txt",
+    "static/js/2.8b669f59.chunk.js.LICENSE.txt": "/rewdigital/static/js/2.8b669f59.chunk.js.LICENSE.txt",
     "static/media/rewdigitalMainLogo.0b62a71e.svg": "/rewdigital/static/media/rewdigitalMainLogo.0b62a71e.svg",
     "static/media/rewdigital_toggle_buttoon.3bc4a8bc.svg": "/rewdigital/static/media/rewdigital_toggle_buttoon.3bc4a8bc.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.78b9160c.js",
     "static/css/2.28bb0c3d.chunk.css",
-    "static/js/2.15d24d55.chunk.js",
+    "static/js/2.8b669f59.chunk.js",
     "static/css/main.549d380a.chunk.css",
-    "static/js/main.d6139648.chunk.js"
+    "static/js/main.c8f6173a.chunk.js"
   ]
 }
